@@ -1,4 +1,3 @@
-# 02_python15
 data preparation
 <center><img src=images/image00.png>
 
